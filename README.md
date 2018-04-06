@@ -4,7 +4,7 @@
 ## Requirements
 - PSP with Custom Firmware
 - Memory Stick compatible with MagicGate
-- Program CWCheats on PSP [Download v0.2.3](http://psp.scenebeta.com/system/files/private/CwCheatV023CFPlusEs.rar)
+- CWCheats on PSP [Download v0.2.3](http://psp.scenebeta.com/system/files/private/CwCheatV023CFPlusEs.rar)
 - Enable pluging cwcheatpops.prx in the PSP's recovery menu
 
 
