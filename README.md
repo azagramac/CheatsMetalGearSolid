@@ -1,7 +1,9 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/azagramac/CheatsMetalGearSolid.svg) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/azagramac/CheatsMetalGearSolid/master.svg)
 
 # Cheats Metal Gear Solid for PSX / PSP
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Metal_Gear_Solid_logo.png/320px-Metal_Gear_Solid_logo.png" height="120px" /> 
+<p align="center">
+        <img src="logo.png" alt="PNG" height="180px" />
+</p>
 
 ## Requirements
 - PSP with Custom Firmware
